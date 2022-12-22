@@ -1,2 +1,2 @@
-# algorithm-homeworks
-Algorithm Lessons Homeworks
+# algorithm-programming
+Algorithm Lessons
