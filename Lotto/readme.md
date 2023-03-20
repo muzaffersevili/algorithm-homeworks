@@ -13,12 +13,10 @@ There is a bag1 (queue) that initially includes all integers from 1 to 17. The p
 
 Example: ![image](https://user-images.githubusercontent.com/73431932/226395601-c43aa607-5a9d-4c9c-9272-f9f0b4ecc588.png)
 
-When a player deletes 4 numbers, he/she gets the award $10. (“birinci çinko”)
-When a player deletes all numbers from his/her queue, he/she wins the game and gets $30.
+When a player deletes 4 numbers, he/she gets the award $10. (“birinci çinko”) \
+When a player deletes all numbers from his/her queue, he/she wins the game and gets $30. \
 If both players delete their last numbers at the same time, the game is over without any winner (tie) and they share the money.
-The program must display all steps until the game is over.
-At the end of the game, the winner(s) should be displayed.
-The money that each player gets should also be printed.
+
 
 ![image](https://user-images.githubusercontent.com/73431932/226396181-296e20a2-8987-4a51-83b7-e707c8b9e04c.png)
 ![image](https://user-images.githubusercontent.com/73431932/226396533-fcf59ce8-8a23-47bd-bc46-c0b57ecb8208.png)
