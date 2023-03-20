@@ -1,6 +1,7 @@
 # DEU Game
 
 C# program for a simple DEU game. \
+\
 There are three arrays (A1, A2, and A3) with 15 in size. Initially, they are empty.\
 There are two players: player1 and player2.\
 \
