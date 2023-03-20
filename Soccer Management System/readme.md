@@ -1,5 +1,5 @@
 # Soccer Management System
-In this homework, implement a simple Soccer Management System that will be used by the Turkish Football Federation (TFF). TFF organizes 11 football leagues: Super League, 1. League, 2. League, 3. League, A2 League, Amateur League, Women's League, Development League, Beach Soccer League, Futsal League, and Turf League. Especially, the program will help to manage the Super League. This league has 21 teams and 630 players.
+In this homework, implement a simple Soccer Management System that will be used by the Turkish Football Federation (TFF). TFF organizes 11 football leagues: Super League, 1. League, 2. League, 3. League, A2 League, Amateur League, Women's League, Development League, Beach Soccer League, Futsal League, and Turf League. Especially, the program will help to manage the Super League. This league has 21 teams and 630 players. \
 The program should allow a user to manage a number of teams and keep the match statistics. \
 The program has to include some entities to handle the records of soccer teams, players, coaches, matches, stadiums, referees, sponsorship companies, etc.\
 A team is represented with several attributes, including name, foundation year, number of cups, and two main colors.\
