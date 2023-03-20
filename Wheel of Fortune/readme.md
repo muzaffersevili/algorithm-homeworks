@@ -11,4 +11,4 @@ Before guessing a letter, a player must spin the wheel to determine how much eac
 \
 The game is over when the player completes the whole word correctly. The player gets the money he/she earns.
 
-![image](https://user-images.githubusercontent.com/73431932/226400552-8bd6f632-e529-47d4-adda-b9b58334bc14.png)
+![image](https://user-images.githubusercontent.com/73431932/226400759-400e0f76-a813-4bbe-9fa7-aef479c2d3dd.png)
