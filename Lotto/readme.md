@@ -2,7 +2,7 @@
 
 Two people play this game with:
 - cards
-- bags \
+- bags
 
 Each card consists of 7 numbers. The numbers are ranged from 1 to 17.
 At the beginning of the game, each card (queue) should be randomly filled with distinct values. So, the numbers in one queue should be different from each other.
