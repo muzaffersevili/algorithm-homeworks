@@ -1,7 +1,8 @@
 # Soccer Management System
 In this homework, implement a simple Soccer Management System that will be used by the Turkish Football Federation (TFF). TFF organizes 11 football leagues: Super League, 1. League, 2. League, 3. League, A2 League, Amateur League, Women's League, Development League, Beach Soccer League, Futsal League, and Turf League. Especially, the program will help to manage the Super League. This league has 21 teams and 630 players.
-The program should allow a user to manage a number of teams and keep the match statistics. \The program has to include some entities to handle the records of soccer teams, players, coaches, matches, stadiums, referees, sponsorship companies, etc.
-\A team is represented with several attributes, including name, foundation year, number of cups, and two main colors.\
+The program should allow a user to manage a number of teams and keep the match statistics. \
+The program has to include some entities to handle the records of soccer teams, players, coaches, matches, stadiums, referees, sponsorship companies, etc.\
+A team is represented with several attributes, including name, foundation year, number of cups, and two main colors.\
 Each team has a coach who manages the team within a period, starting from the contract date to the end date, and earns a salary (monthly). When needed, to be able to communicate with a coach, his contact information (address, phone) should be kept in the system.
 Each player should be represented with basic features such as license number, name surname, birthdate, nationality, address, and phone. Each player belongs to a team within a period, starting from the contract date to the end date, and earns a salary. The main positional role of a player should also be kept in the system, including goalkeeper, defender, midfielder, or attacker.
 \Each match is controlled by a referee, who is assisted by two assistant referees. When needed, to be able to communicate with a referee, his contact information (address, phone, etc.) should be kept in the system.
