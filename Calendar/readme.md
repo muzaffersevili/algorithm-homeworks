@@ -9,7 +9,7 @@ The program must also print the day of the week (i.e., Monday) and the season (W
 The first date can be before or after the second date. \
 The program should control all possible invalid user inputs and give an approriate error message.
 
-\
+
 
 
 ![image](https://user-images.githubusercontent.com/73431932/226402240-da85f805-2fdb-45e0-82f1-d2ad808c4e77.png)
