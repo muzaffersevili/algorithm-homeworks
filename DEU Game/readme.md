@@ -20,4 +20,5 @@ or
 The program must display all steps until the game is over.
 
 ![image](https://user-images.githubusercontent.com/73431932/226404501-83ad7333-25d4-4191-8dee-94a5ce11de05.png)
+\
 ![image](https://user-images.githubusercontent.com/73431932/226404608-196dd570-1a0c-4d86-83d7-69de6b92de0a.png)
